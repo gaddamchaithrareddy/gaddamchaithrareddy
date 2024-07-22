@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @gaddamchaithrareddy
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Structures
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate with MNC's companies
 - 📫 How to reach me gaddamchaithrareddy@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: 
 
 <!---
 gaddamchaithrareddy/gaddamchaithrareddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
