@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaddamchaithrareddy
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Structures
+- 🌱 I’m currently working on Data Visualizations
 - 💞️ I’m looking to collaborate with MNC's companies
 - 📫 How to reach me gaddamchaithrareddy@gmail.com
 - 😄 Pronouns: She/her
